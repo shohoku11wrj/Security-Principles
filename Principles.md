@@ -1,4 +1,4 @@
-So this is the collection of aphorisms so far. As you can see, a number of aphorisms grouped together all identify a particular principle such as 'reduce surface area.' Additionally, it tells us how to build, architect design, verify and impliment a secure system. Currently, the aphorisms need to be identified as either a principle or a description of a principle. I would then like to identify the correct citation for this priniple (if possible), and then document it. 
+So this is the collection of aphorisms so far. As you can see, a number of aphorisms grouped together all identify a particular principle such as 'reduce surface area.' Additionally, it tells us how to build, architect design, verify and impliment a secure system. Currently, the aphorisms need to be identified as either a principle or a description of a principle. I would then like to identify the correct citation for this priniple (if possible), and then document it. Two principles have been identified below. Also Saltzer and Schroeder for example are definately included.
 
 
 # Reduce Surface Area
@@ -17,6 +17,7 @@ So this is the collection of aphorisms so far. As you can see, a number of aphor
   - Do Not Trust HTTP Header Information
   - Never Assuming that your Secrets are Safe 
 
+# aphorisms
 * Least Privilege 
 * Adopt the Principle of Least Privilege
 * Audit And Log Access Across Application Tiers
