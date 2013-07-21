@@ -1,4 +1,5 @@
 Initial seed papers provided to me by [Beau Woods](www.beauwoods.com) in an email discussion about this project that has been sitting on my hard drive for far to long.
+This directory should serve to capture the links, as well as the papers for future reference where possible. This should form the bibliography as well.
 
 # Initial Papers
 * [An Introduction to Computer Security: The NIST Handbook - NIST 800-12, 1995](http://www.davidsalomon.name/CompSec/auxiliary/handbook.pdf) 
